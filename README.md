@@ -1,6 +1,6 @@
 Sensora
 ======
-All api calls require a valid apikey.Get one at [http://sensora.net](Sensora.net)
+All api calls require a valid api key.Get one at [http://sensora.net](Sensora.net)
 
 API endpoints
 =======
