@@ -20,4 +20,4 @@ Returns data for sensor between dates. Dates must be linux time strings.
 
 ### api/sensor
 id and sensor_id are required.
-Saves data for sensor. All data fields are optional so you can upload what you can. Valid data params are: temperature, moisture, altitude, pressure, sound.
+Saves data for sensor. All data fields are optional so you can upload what you can. Valid data params are: temperature, moisture, altitude, pressure, sound, light.
